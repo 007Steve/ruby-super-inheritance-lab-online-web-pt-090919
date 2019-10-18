@@ -1,1 +1,1 @@
-require_relative (./chatty_student)
+"require_relative "./chatty_student.rb"
