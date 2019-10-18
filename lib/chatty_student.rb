@@ -1,2 +1,5 @@
 
-class 
+class Chatty_student
+  
+  
+end
