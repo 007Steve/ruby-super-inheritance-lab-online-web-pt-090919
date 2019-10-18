@@ -9,7 +9,7 @@ class Chatty_student < Student
     super
     puts "Pick me!"
 end
-
+end
 rasie_hand
 rasie_hand
 rasie_hand
