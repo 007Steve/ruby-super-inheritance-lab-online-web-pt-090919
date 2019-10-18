@@ -9,15 +9,14 @@ class Chatty_student < Student
     super
     puts "Pick me!"
 end
-
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
-rasie_hand
 end
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
