@@ -7,5 +7,16 @@ class Chatty_student < Student
   
   def rasie_hand
     super
-    p
+    puts "Pick me!"
 end
+
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
+rasie_hand
